@@ -147,7 +147,7 @@ Roblox Studio
 
 # 🐦 FLAPPY BIRD
 
-<img src="./assets/flappy-bird.gif" width="100">
+<img src="./assets/flappy-bird-readme.gif.gif" width="850">
 
 ### 🎮 Can you beat the high score?
 
