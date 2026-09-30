@@ -147,24 +147,26 @@ Roblox Studio
 
 <div align="center">
 
-## 🚀 Tech Stack
+---
 
-```text
-Programming
-├── C#
-├── C++
-├── Java
-├── JavaScript
-└── Lua
+<div align="center">
 
-Web
-├── HTML
-└── CSS
+# 🐦 FLAPPY BIRD
 
-Database
-├── SQL
-└── MongoDB
+<img src="./assets/flappy-bird.gif" width="800"/>
 
-Game Development
-├── Unity
-└── Roblox Studio
+### 🎮 Can you beat the high score?
+
+<br>
+
+| 🏆 High Score | 🎯 Difficulty | 🎮 Game |
+|:---:|:---:|:---:|
+| **67** | 🔥 Hard | 🐦 Flappy Bird |
+
+<br>
+
+> ⚠️ Warning: One more try... 😈
+
+</div>
+
+---
