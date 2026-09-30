@@ -142,31 +142,13 @@ Roblox Studio
 </td>
 </tr>
 </table>
-
 ---
-
-<div align="center">
-
----
-
 <div align="center">
 
 # 🐦 FLAPPY BIRD
 
-<img src="./assets/flappy-bird.gif" width="800"/>
+<img src="./assets/flappy-bird.gif" width="850">
 
 ### 🎮 Can you beat the high score?
 
-<br>
-
-| 🏆 High Score | 🎯 Difficulty | 🎮 Game |
-|:---:|:---:|:---:|
-| **67** | 🔥 Hard | 🐦 Flappy Bird |
-
-<br>
-
-> ⚠️ Warning: One more try... 😈
-
 </div>
-
----
