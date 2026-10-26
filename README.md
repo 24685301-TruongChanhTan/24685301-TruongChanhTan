@@ -6,11 +6,6 @@
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+RoyceSan+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Creative+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80;Always+Building+%F0%9F%94%A5"/>
 
-<br>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7b2ff7"/>
-</p>
 
 </div>
 
